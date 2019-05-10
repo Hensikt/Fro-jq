@@ -1,0 +1,19 @@
+{
+  "name": "hensikt",
+  "version": "1.0.0",
+  "description": "1e keer Jquery",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jquery",
+    "periode1.4",
+    "training"
+  ],
+  "author": "Bjørn Emmaneel",
+  "license": "ISC",
+  "dependencies": {
+    "jquery": "^3.4.1"
+  }
+}
